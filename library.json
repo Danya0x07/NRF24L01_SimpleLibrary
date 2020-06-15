@@ -1,0 +1,23 @@
+{
+    "name": "NRF24L01_SimpleLibrary",
+    "keywords": "nrf24l01, nrf24l01p, nrf24, rf, rf24, transceiver, radio",
+    "description": "Simple and cross-platform NRF24L01/+ library. Only for local install because some files are to be edited by user.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Danya0x07/NRF24L01_SimpleLibrary.git"
+    },
+    "authors":
+    {
+        "name": "Daniel Efimenko",
+        "email": "dlef0xf8@gmail.com",
+        "maintainer": true
+    },
+    "version": "1.0.0",
+    "frameworks": "*",
+    "platforms": "*",
+    "license": "MIT",
+    "examples": [
+        "examples/*"
+    ]
+}
